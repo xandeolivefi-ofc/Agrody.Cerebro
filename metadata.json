@@ -1,0 +1,9 @@
+{
+  "name": "Cérebro Digital da Fazenda",
+  "description": "Agente cognitivo agrícola autônomo para tomada de decisões, diagnósticos por imagem e gestão financeira inteligente no agronegócio.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
